@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>何处黄云是陇间</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-03-22T08:33:16.277Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Shawn</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2021/03/22/test/"/>
+    <id>http://example.com/2021/03/22/test/</id>
+    <published>2021-03-22T08:33:16.277Z</published>
+    <updated>2021-03-22T08:33:16.277Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>

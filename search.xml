@@ -4,12 +4,75 @@
   
     
     <entry>
-      <title>1st post title</title>
-      <link href="2014/05/01/test/"/>
-      <url>2014/05/01/test/</url>
+      <title>asd</title>
+      <link href="2017/05/26/knowledge/hello/"/>
+      <url>2017/05/26/knowledge/hello/</url>
       
-        <content type="html"><![CDATA[<p>1st post is written in <a href="http://markdown.tw/">markdown</a>.</p>]]></content>
+        <content type="html"><![CDATA[<pre><code>asd</code></pre>]]></content>
       
+      
+      <categories>
+          
+          <category> knowledge </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐1</title>
+      <link href="2017/05/26/impression/2/"/>
+      <url>2017/05/26/impression/2/</url>
+      
+        <content type="html"><![CDATA[<pre><code>这是音乐栏的文章1。</code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> mood </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>life 2</title>
+      <link href="2017/05/26/life/22/"/>
+      <url>2017/05/26/life/22/</url>
+      
+        <content type="html"><![CDATA[<pre><code>生活区文章2</code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> life </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>life 1</title>
+      <link href="2017/05/26/life/1/"/>
+      <url>2017/05/26/life/1/</url>
+      
+        <content type="html"><![CDATA[<pre><code>生活区文章1</code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> life </category>
+          
+      </categories>
       
       
     </entry>

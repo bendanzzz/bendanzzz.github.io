@@ -1,10 +1,6 @@
 
 #layout-head {
-
-}
-
-h1 {
-
+    margin: 10px;
 }
 
 #banner {
@@ -12,11 +8,12 @@ h1 {
     width: 100%;
 }
 
-#layout-content {
+.layout-content {
     clear: both; 
-    display: inline-block;
     margin-top: 15px;
     height: 80%;
+    width: 100%;
+    
   }
 
 .block {
@@ -46,5 +43,10 @@ ul {
 li {
     float: left;
     margin-right: 30px;
+}
+
+canvas#live2dcanvas {
+    border: 0 !important;
+    left: 0;
 }
 

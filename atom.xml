@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-03-24T06:21:34.194Z</updated>
+  <updated>2021-04-07T05:34:41.231Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,22 +17,97 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>1st post title</title>
-    <link href="http://example.com/2014/05/01/test/"/>
-    <id>http://example.com/2014/05/01/test/</id>
-    <published>2014-05-01T02:15:02.000Z</published>
-    <updated>2021-03-24T06:21:34.194Z</updated>
+    <title>asd</title>
+    <link href="http://example.com/2017/05/26/knowledge/hello/"/>
+    <id>http://example.com/2017/05/26/knowledge/hello/</id>
+    <published>2017-05-26T04:12:57.000Z</published>
+    <updated>2021-04-07T05:34:41.231Z</updated>
     
-    <content type="html"><![CDATA[<p>1st post is written in <a href="http://markdown.tw/">markdown</a>.</p>]]></content>
+    <content type="html"><![CDATA[<pre><code>asd</code></pre>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;1st post is written in &lt;a href=&quot;http://markdown.tw/&quot;&gt;markdown&lt;/a&gt;.&lt;/p&gt;
+    <summary type="html">&lt;pre&gt;&lt;code&gt;asd
+&lt;/code&gt;&lt;/pre&gt;
 </summary>
       
     
     
+    
+    <category term="knowledge" scheme="http://example.com/categories/knowledge/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>音乐1</title>
+    <link href="http://example.com/2017/05/26/impression/2/"/>
+    <id>http://example.com/2017/05/26/impression/2/</id>
+    <published>2017-05-26T04:12:57.000Z</published>
+    <updated>2021-04-07T05:32:43.371Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>这是音乐栏的文章1。</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;这是音乐栏的文章1。
+&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
+    
+    
+    
+    <category term="mood" scheme="http://example.com/categories/mood/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>life 2</title>
+    <link href="http://example.com/2017/05/26/life/22/"/>
+    <id>http://example.com/2017/05/26/life/22/</id>
+    <published>2017-05-26T04:12:57.000Z</published>
+    <updated>2021-04-07T05:34:12.939Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>生活区文章2</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;生活区文章2
+&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
+    
+    
+    
+    <category term="life" scheme="http://example.com/categories/life/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>life 1</title>
+    <link href="http://example.com/2017/05/26/life/1/"/>
+    <id>http://example.com/2017/05/26/life/1/</id>
+    <published>2017-05-26T04:12:57.000Z</published>
+    <updated>2021-04-07T05:33:49.553Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>生活区文章1</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre&gt;&lt;code&gt;生活区文章1
+&lt;/code&gt;&lt;/pre&gt;
+</summary>
+      
+    
+    
+    
+    <category term="life" scheme="http://example.com/categories/life/"/>
     
     
   </entry>

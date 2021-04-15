@@ -23,25 +23,6 @@
     
     
     <entry>
-      <title>没有标题的文章</title>
-      <link href="2021/04/15/mood/record/"/>
-      <url>2021/04/15/mood/record/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> mood </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>记一次新生</title>
       <link href="2021/04/15/life/new/"/>
       <url>2021/04/15/life/new/</url>
@@ -52,6 +33,25 @@
       <categories>
           
           <category> life </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>没有标题的文章</title>
+      <link href="2021/04/15/mood/record/"/>
+      <url>2021/04/15/mood/record/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> mood </category>
           
       </categories>
       

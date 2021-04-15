@@ -4,16 +4,16 @@
   
     
     <entry>
-      <title>asd</title>
-      <link href="2017/05/26/knowledge/hello/"/>
-      <url>2017/05/26/knowledge/hello/</url>
+      <title>life 1</title>
+      <link href="2017/05/26/life/1/"/>
+      <url>2017/05/26/life/1/</url>
       
-        <content type="html"><![CDATA[<pre><code>asd</code></pre>]]></content>
+        <content type="html"><![CDATA[<pre><code>生活区文章1</code></pre>]]></content>
       
       
       <categories>
           
-          <category> knowledge </category>
+          <category> life </category>
           
       </categories>
       
@@ -42,16 +42,16 @@
     
     
     <entry>
-      <title>life 2</title>
-      <link href="2017/05/26/life/22/"/>
-      <url>2017/05/26/life/22/</url>
+      <title>asd</title>
+      <link href="2017/05/26/knowledge/hello/"/>
+      <url>2017/05/26/knowledge/hello/</url>
       
-        <content type="html"><![CDATA[<pre><code>生活区文章2</code></pre>]]></content>
+        <content type="html"><![CDATA[<pre><code>asd</code></pre>]]></content>
       
       
       <categories>
           
-          <category> life </category>
+          <category> knowledge </category>
           
       </categories>
       
@@ -61,11 +61,11 @@
     
     
     <entry>
-      <title>life 1</title>
-      <link href="2017/05/26/life/1/"/>
-      <url>2017/05/26/life/1/</url>
+      <title>life 2</title>
+      <link href="2017/05/26/life/22/"/>
+      <url>2017/05/26/life/22/</url>
       
-        <content type="html"><![CDATA[<pre><code>生活区文章1</code></pre>]]></content>
+        <content type="html"><![CDATA[<pre><code>生活区文章2</code></pre>]]></content>
       
       
       <categories>

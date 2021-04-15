@@ -4,49 +4,11 @@
   
     
     <entry>
-      <title>life 1</title>
-      <link href="2017/05/26/life/1/"/>
-      <url>2017/05/26/life/1/</url>
+      <title>2021年度学习计划</title>
+      <link href="2021/04/15/knowledge/plan/"/>
+      <url>2021/04/15/knowledge/plan/</url>
       
-        <content type="html"><![CDATA[<pre><code>生活区文章1</code></pre>]]></content>
-      
-      
-      <categories>
-          
-          <category> life </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>音乐1</title>
-      <link href="2017/05/26/impression/2/"/>
-      <url>2017/05/26/impression/2/</url>
-      
-        <content type="html"><![CDATA[<pre><code>这是音乐栏的文章1。</code></pre>]]></content>
-      
-      
-      <categories>
-          
-          <category> mood </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>asd</title>
-      <link href="2017/05/26/knowledge/hello/"/>
-      <url>2017/05/26/knowledge/hello/</url>
-      
-        <content type="html"><![CDATA[<pre><code>asd</code></pre>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
       
       <categories>
@@ -61,11 +23,30 @@
     
     
     <entry>
-      <title>life 2</title>
-      <link href="2017/05/26/life/22/"/>
-      <url>2017/05/26/life/22/</url>
+      <title>没有标题的文章</title>
+      <link href="2021/04/15/mood/record/"/>
+      <url>2021/04/15/mood/record/</url>
       
-        <content type="html"><![CDATA[<pre><code>生活区文章2</code></pre>]]></content>
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> mood </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>记一次新生</title>
+      <link href="2021/04/15/life/new/"/>
+      <url>2021/04/15/life/new/</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
       
       <categories>

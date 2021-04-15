@@ -4,25 +4,6 @@
   
     
     <entry>
-      <title>记一次新生</title>
-      <link href="2021/04/15/life/new/"/>
-      <url>2021/04/15/life/new/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> life </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>2021年度学习计划</title>
       <link href="2021/04/15/knowledge/plan/"/>
       <url>2021/04/15/knowledge/plan/</url>
@@ -33,6 +14,25 @@
       <categories>
           
           <category> knowledge </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>记一次新生</title>
+      <link href="2021/04/15/life/new/"/>
+      <url>2021/04/15/life/new/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> life </category>
           
       </categories>
       
